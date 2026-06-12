@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @d9sde
 - 👀 I’m interested in digital arts.
-- 🌱 I’m currently learning p5.js
 - 📫 Reach me via www.d9s.de
 
 <!---
